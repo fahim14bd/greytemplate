@@ -1,0 +1,69 @@
+.head { 
+    padding-top: 0 !important;
+    padding: 8% 0;
+    background: url(../Image/head-back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #d6d6d6;
+}
+
+.head a { 
+    color: white;
+}
+
+.head ul li a:hover { 
+    color: #d6d6d6;
+}
+
+.content {
+    padding: 4% 0;
+    background-color: #DFE7ED;
+}
+
+.content .btn-outline-dark:hover {
+    border: 2px solid #2a2a2a !important;
+}
+
+.service {
+    padding: 10% 0 !important;
+}
+
+.client {
+    color: #fff;
+    background-color: #000;
+
+}
+
+.progress-bar {
+    background-color: #36c36e !important;
+}
+
+.blog {
+    margin: 0 !important;
+    padding: 6% 0;
+}
+
+.blog p {
+    display: inline-block;
+}
+
+.blog img {
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.action {
+    margin: 0 !important;
+    color: #fff;
+    background-color: #36c36e;
+}
+
+.btn-outline-success:hover {
+    background-color: #e3e1e1 !important;
+}
+
+.footer {
+    color: #fff;
+    background-color: #000;
+
+}
